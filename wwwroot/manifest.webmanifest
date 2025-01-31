@@ -1,6 +1,6 @@
 {
-  "name": "BlazorWasm",
-  "short_name": "BlazorWasm",
+  "name": "BlazorWasmAutorization",
+  "short_name": "BlazorWasmAutorization",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
